@@ -3,7 +3,7 @@ import App from '../../src/components/app';
 
 describe('App', () => {
 
-  it('shows the correct test', ()=> {
+  it('shows the correct test', () => {
 
     const component = renderComponent(App);
 
